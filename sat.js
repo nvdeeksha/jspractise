@@ -13,7 +13,7 @@ else{
 
 
  const cake = "redvelvet" 
-let weight;
+let weight = 4;
 
 if (weight < 2) {
 weight = "underweight";

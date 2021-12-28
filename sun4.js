@@ -13,7 +13,7 @@ console.log(me.place)
 console.log(me.age)
 
 console.log(typeof me.name)
-console.log(typeof  me.age)
+console.log(typeof me.age)
 
 delete me.age
 console.log(me)
